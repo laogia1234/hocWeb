@@ -17,5 +17,3 @@ Route::get('/', function () {
 
 Route::get('/hello', 'HelloController@xinChao');
 Route::get('/danhsach', 'DanhSachController@ShowDS');
-
-
